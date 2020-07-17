@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: delivery
-          image: admin29acr.azurecr.io/reqres_delivery
+          image: admin29acr.azurecr.io/delivery
           ports:
             - containerPort: 8080
